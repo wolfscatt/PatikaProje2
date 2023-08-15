@@ -1,0 +1,15 @@
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\bin\Debug\net6.0\ToDoApp.exe
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\bin\Debug\net6.0\ToDoApp.deps.json
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\bin\Debug\net6.0\ToDoApp.runtimeconfig.json
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\bin\Debug\net6.0\ToDoApp.dll
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\bin\Debug\net6.0\ToDoApp.pdb
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ToDoApp.AssemblyInfoInputs.cache
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ToDoApp.AssemblyInfo.cs
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ToDoApp.csproj.CoreCompileInputs.cache
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ToDoApp.dll
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\refint\ToDoApp.dll
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ToDoApp.pdb
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ToDoApp.genruntimeconfig.cache
+D:\PatikaOdev\CSharp101\Proje2\ToDoApp\obj\Debug\net6.0\ref\ToDoApp.dll
